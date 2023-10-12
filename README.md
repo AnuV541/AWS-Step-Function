@@ -29,7 +29,7 @@ To create a Step Function:
 8. Leave all the configuration of the table as default. Now to to code section and change the json code to as follows.
 
 
-   ```
+ ```
    {
   "Comment": "A description of my state machine",
   "StartAt": "CreateTable",
@@ -61,3 +61,6 @@ To create a Step Function:
   }
 }
 ```
+
+
+9.
