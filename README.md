@@ -63,4 +63,33 @@ To create a Step Function:
 ```
 
 
-9.
+9. Now go to config section and give a name for youe state machine and select assign a new role.
+
+
+    ![screencapture-us-east-1-console-aws-amazon-states-home-2023-10-12-23_34_44](https://github.com/AnuV541/AWS-Step-Function/assets/110184106/7f0dee62-2b17-4b1b-bf05-16975906c311)
+
+
+10. After that you will be directed to the following. Press confirm.
+   
+   
+    ![image](https://github.com/AnuV541/AWS-Step-Function/assets/110184106/07ab4126-8a83-463a-a204-97d7b1ee38ff)
+
+
+
+11. After this go to IAM and select the role which was just created or go to the IAM roles page by selecting the role arn. Here add another policy which gives the user full access to dynamo db.
+
+
+    ![screencapture-us-east-1-console-aws-amazon-iamv2-home-2023-10-12-23_41_24](https://github.com/AnuV541/AWS-Step-Function/assets/110184106/728781a2-68fb-4950-9845-1e0c35b9411e)
+
+
+12. After this go to the work flow and start the execution. In few minutes you can see a dynamo db table created with the specified configuration.
+
+
+    ![image](https://github.com/AnuV541/AWS-Step-Function/assets/110184106/c73c9a32-c8b0-48cb-a38b-6bbd448d3414)
+
+    
+    ![image](https://github.com/AnuV541/AWS-Step-Function/assets/110184106/a61b3af9-e017-4082-9e02-b03cf0a6adaa)
+
+
+    ![image](https://github.com/AnuV541/AWS-Step-Function/assets/110184106/f5fb1ebd-c7a2-4067-97ff-66a2d7e5cb79)
+
