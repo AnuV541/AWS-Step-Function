@@ -7,5 +7,7 @@ AWS Step Functions is a serverless function orchestrator that makes it easy to s
 To create a Step Function:
 1. Log into your AWS Console and search for AWS step function in the search menu.
 2. Press get started to create your first step function.
-3. ![image](https://github.com/AnuV541/AWS-Step-Function/assets/110184106/8931271c-4904-4930-9bf2-5f7e58c35a3f)
+3.Here choose create your own workflow from scratch.
+    ![image](https://github.com/AnuV541/AWS-Step-Function/assets/110184106/edbc4e36-d0cb-40f7-b20b-a43359cf2873)
+
 
