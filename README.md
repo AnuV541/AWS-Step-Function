@@ -1,7 +1,11 @@
 # AWS-Step-Function
 In this article you will get to know how to create a Dynamo DB table in AWS cloud using Step Function.
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+
+What is AWS Step Function?
+AWS Step Functions is a serverless function orchestrator that makes it easy to sequence AWS Lambda functions and multiple AWS services into business-critical applications. Through its visual interface, you can create and run a series of checkpointed and event-driven workflows that maintain the application state.
+
+To create a Step Function:
+1. Log into your AWS Console and search for AWS step function in the search menu.
+2. Press get started to create your first step function.
+3. ![image](https://github.com/AnuV541/AWS-Step-Function/assets/110184106/8931271c-4904-4930-9bf2-5f7e58c35a3f)
+
