@@ -23,7 +23,7 @@ To create a Step Function:
 7. Drag and drop the function to the machine graph.
 
 
-   ![image](https://github.com/AnuV541/AWS-Step-Function/assets/110184106/701a8e33-122d-4b36-a32e-c703a569e0ee)
+   ![image](https://github.com/AnuV541/AWS-Step-Function/assets/110184106/4289c5a7-ffcd-4a98-814f-f20bf7985ea7)
 
 
 8. Leave all the configuration of the table as default. Now to to code section and change the json code to as follows.
